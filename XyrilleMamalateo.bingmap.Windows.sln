@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XyrilleMamalateo.bingmap.Windows", "XyrilleMamalateo.bingmap.Windows.csproj", "{9AAE70E6-C7B0-4B3C-9439-CBE8D807F46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAE70E6-C7B0-4B3C-9439-CBE8D807F46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAE70E6-C7B0-4B3C-9439-CBE8D807F46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAE70E6-C7B0-4B3C-9439-CBE8D807F46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAE70E6-C7B0-4B3C-9439-CBE8D807F46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3C29F5-463F-4A09-AF92-2A4FDAF3F64F}
+	EndGlobalSection
+EndGlobal
